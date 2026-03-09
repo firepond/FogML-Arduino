@@ -6,3 +6,5 @@
 .vscode/extensions.json
 uv.lock
 .venv
+.vscode/
+demo
